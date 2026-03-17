@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Micro\Código 2\Código 2\Código 2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Users\Azul Luna\Programas Uni\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Users\Azul Luna\Programas Uni\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Micro\Código 2\Código 2\Código 2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Users\Azul Luna\Programas Uni\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Users\Azul Luna\Programas Uni\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Micro\Código 2\Código 2\Código 2\Debug\Código 2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Código 2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Código 2.map</FILE>
+  <FILE>Código 2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <table_of_unsorted_numbers><FILE>C:\Micro\Código 2\Código 2\Código 2\main.asm</FILE><LINE>19</LINE></table_of_unsorted_numbers>
+  <table_of_sorted_numbers_alg2><FILE>C:\Micro\Código 2\Código 2\Código 2\main.asm</FILE><LINE>20</LINE></table_of_sorted_numbers_alg2>
+  <main><FILE>C:\Micro\Código 2\Código 2\Código 2\main.asm</FILE><LINE>26</LINE></main>
+  <generar_aleatorios><FILE>C:\Micro\Código 2\Código 2\Código 2\main.asm</FILE><LINE>39</LINE></generar_aleatorios>
+  <copiar_a_alg2><FILE>C:\Micro\Código 2\Código 2\Código 2\main.asm</FILE><LINE>56</LINE></copiar_a_alg2>
+  <sort_selection><FILE>C:\Micro\Código 2\Código 2\Código 2\main.asm</FILE><LINE>70</LINE></sort_selection>
+  <fin><FILE>C:\Micro\Código 2\Código 2\Código 2\main.asm</FILE><LINE>36</LINE></fin>
+  <loop_gen2><FILE>C:\Micro\Código 2\Código 2\Código 2\main.asm</FILE><LINE>44</LINE></loop_gen2>
+  <no_xor2><FILE>C:\Micro\Código 2\Código 2\Código 2\main.asm</FILE><LINE>50</LINE></no_xor2>
+  <loop_c2><FILE>C:\Micro\Código 2\Código 2\Código 2\main.asm</FILE><LINE>62</LINE></loop_c2>
+  <s_base><FILE>C:\Micro\Código 2\Código 2\Código 2\main.asm</FILE><LINE>74</LINE></s_base>
+  <s_done><FILE>C:\Micro\Código 2\Código 2\Código 2\main.asm</FILE><LINE>100</LINE></s_done>
+  <s_min><FILE>C:\Micro\Código 2\Código 2\Código 2\main.asm</FILE><LINE>84</LINE></s_min>
+  <s_next><FILE>C:\Micro\Código 2\Código 2\Código 2\main.asm</FILE><LINE>92</LINE></s_next>
+ </LABELS>
+</ASSEMBLER_INFO>

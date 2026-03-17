@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Micro\Código 1\Código 1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Users\Azul Luna\Programas Uni\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Users\Azul Luna\Programas Uni\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Micro\Código 1\Código 1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Users\Azul Luna\Programas Uni\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Users\Azul Luna\Programas Uni\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Micro\Código 1\Código 1\Debug\Código 1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Código 1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Código 1.map</FILE>
+  <FILE>Código 1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <table_of_unsorted_numbers><FILE>C:\Micro\Código 1\Código 1\main.asm</FILE><LINE>19</LINE></table_of_unsorted_numbers>
+  <table_of_sorted_numbers_alg1><FILE>C:\Micro\Código 1\Código 1\main.asm</FILE><LINE>20</LINE></table_of_sorted_numbers_alg1>
+  <main><FILE>C:\Micro\Código 1\Código 1\main.asm</FILE><LINE>26</LINE></main>
+  <generar_aleatorios><FILE>C:\Micro\Código 1\Código 1\main.asm</FILE><LINE>41</LINE></generar_aleatorios>
+  <copiar_a_alg1><FILE>C:\Micro\Código 1\Código 1\main.asm</FILE><LINE>59</LINE></copiar_a_alg1>
+  <sort_bubble><FILE>C:\Micro\Código 1\Código 1\main.asm</FILE><LINE>73</LINE></sort_bubble>
+  <fin><FILE>C:\Micro\Código 1\Código 1\main.asm</FILE><LINE>37</LINE></fin>
+  <loop_gen><FILE>C:\Micro\Código 1\Código 1\main.asm</FILE><LINE>46</LINE></loop_gen>
+  <no_xor><FILE>C:\Micro\Código 1\Código 1\main.asm</FILE><LINE>52</LINE></no_xor>
+  <loop_c1><FILE>C:\Micro\Código 1\Código 1\main.asm</FILE><LINE>65</LINE></loop_c1>
+  <b_ext><FILE>C:\Micro\Código 1\Código 1\main.asm</FILE><LINE>75</LINE></b_ext>
+  <b_int><FILE>C:\Micro\Código 1\Código 1\main.asm</FILE><LINE>79</LINE></b_int>
+  <no_swap><FILE>C:\Micro\Código 1\Código 1\main.asm</FILE><LINE>87</LINE></no_swap>
+ </LABELS>
+</ASSEMBLER_INFO>
